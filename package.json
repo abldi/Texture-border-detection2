@@ -1,0 +1,12 @@
+{
+  "name": "texture-border-detection",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "dat.gui": "0.7.2",
+    "lodash": "4.17.11",
+    "three": "0.89.0"
+  }
+}
